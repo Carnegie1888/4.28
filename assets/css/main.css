@@ -11,6 +11,11 @@
 *::after {
   box-sizing: border-box; }
 
+.no-border {
+    border: none;
+}
+
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
